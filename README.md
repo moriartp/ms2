@@ -82,3 +82,16 @@ To what extent does the implimentation of data counterveillence alter peoples be
 - Björklund, Fredrika, and Svenonius, Ola. *Video surveillance and social control in a comparative perspective*. New York: Routledge, 2013
 - Yesil, Bilge. *Video surveillance power and privacy in everyday life*. El Paso: LFB Scholarly, 2009
 - Doyle, Aaron, Lippert, Randy K., and Lyon, David. *Eyes everywhere the global growth of camera surveillance*. Abingdon: Routledge, 2012
+
+______________________________________________________________________________________
+#NEW SKETCHES
+![newsketch01](https://github.com/moriartp/ms2/blob/master/newSketches/01.jpg)
+![newsketch02](https://github.com/moriartp/ms2/blob/master/newSketches/02.jpg)
+![newsketch03](https://github.com/moriartp/ms2/blob/master/newSketches/03.jpg)
+![newsketch04](https://github.com/moriartp/ms2/blob/master/newSketches/04.jpg)
+![newsketch05](https://github.com/moriartp/ms2/blob/master/newSketches/05.jpg)
+![newsketch06](https://github.com/moriartp/ms2/blob/master/newSketches/06.jpg)
+![newsketch07](https://github.com/moriartp/ms2/blob/master/newSketches/07.jpg)
+![newsketch08](https://github.com/moriartp/ms2/blob/master/newSketches/08.jpg)
+![newsketch09](https://github.com/moriartp/ms2/blob/master/newSketches/09.jpg)
+![newsketch10](https://github.com/moriartp/ms2/blob/master/newSketches/10.jpg)
