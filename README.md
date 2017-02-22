@@ -85,37 +85,41 @@ To what extent does the implimentation of data counterveillence alter peoples be
 
 ______________________________________________________________________________________
 #NEW SKETCHES
+
+## green taxis
+[movement](http://moriartp.github.io/projects/greemTaxi/) 
+
 ## of death and taxes
-Rate comparison of actual lives, actual dollars
+####Rate comparison of actual lives, actual dollars
 ![newsketch03](https://github.com/moriartp/ms2/blob/master/newSketches/03.jpg)
 
 ## reductive data
-rather than add data point mapping, this visualization removes data points over time at a rate equal to the US death rates
+####rather than add data point mapping, this visualization removes data points over time at a rate equal to the US death rates
 ![newsketch04](https://github.com/moriartp/ms2/blob/master/newSketches/04.jpg)
 
 ##the hive
-[hive-display](http://moriartp.github.io/projects/realPopulations/) 
-I became interested in using experiences of large numbers on micro display in nature. HOney Bee hives on average contain population of 20,000-80,000 bees. Might this be used to represent populations of cities, nations? Further this visualization relies more explicity on numerosity estimation. Allowing 1 to 1 representation of data points, size comparisons may still be identified by audiences.
+####[hive-display](http://moriartp.github.io/projects/realPopulations/) 
+####I became interested in using experiences of large numbers on micro display in nature. HOney Bee hives on average contain population of 20,000-80,000 bees. Might this be used to represent populations of cities, nations? Further this visualization relies more explicity on numerosity estimation. Allowing 1 to 1 representation of data points, size comparisons may still be identified by audiences.
 ![newsketch05](https://github.com/moriartp/ms2/blob/master/newSketches/05.jpg)
 
 ## politic swarm
-[movement](http://moriartp.github.io/projects/movementTest/) 
-1 to 1 data point representation of us popular vote, gravitates to political hive, which increases incrementally to display to accumulation of votes over time. Visualization include a slide tool that allows for increase rate of swarm accumulation.
+####[movement](http://moriartp.github.io/projects/movementTest/) 
+####1 to 1 data point representation of us popular vote, gravitates to political hive, which increases incrementally to display to accumulation of votes over time. Visualization include a slide tool that allows for increase rate of swarm accumulation.
 ![newsketch06](https://github.com/moriartp/ms2/blob/master/newSketches/06.jpg)
 
 ##commuter swarm
-Similar idea to previous concept, exploring commuter populations into teh island of Manhattan.
+####Similar idea to previous concept, exploring commuter populations into teh island of Manhattan.
 ![newsketch07](https://github.com/moriartp/ms2/blob/master/newSketches/07.jpg)
 
 ##if galaxies were raindrops [0]
-raw visualization of falling rain, accumulates over time render a raindrop for each galaxy in the universe. Additionally, slide tool will allow end users to adjust rainfall velocity. Else the visualization may take up weeks and weeks to resolve.
+####raw visualization of falling rain, accumulates over time render a raindrop for each galaxy in the universe. Additionally, slide tool will allow end users to adjust rainfall velocity. Else the visualization may take up weeks and weeks to resolve.
 ![newsketch08](https://github.com/moriartp/ms2/blob/master/newSketches/08.jpg)
 
 ##if galaxies were raindrops [1]
 ![newsketch09](https://github.com/moriartp/ms2/blob/master/newSketches/09.jpg)
-This visualization allows user to specify a physical location, and 'heaviness' of rainfall. Using land area, and rate of accummulation, it calculates an estimated duration of rainfall required to render the number of galaxies in the universe.
+####This visualization allows user to specify a physical location, and 'heaviness' of rainfall. Using land area, and rate of accummulation, it calculates an estimated duration of rainfall required to render the number of galaxies in the universe.
 
 
 ##if galaxies were raindrops [2]
-The most ambitious from an engineering standpoint, this is a physical installation of a 'rain maker'. The installation cycles water through the system generating rainfall which is collected in a receptical, and recycled through the water flow system. As each droplet descends, it moves through a gauntlet of various colored laser beams. Each color iteration of each droplet, represents an indivual galaxy. The installation would run nonstop for the duration of the exhibit, until representations of all galaxies in the universe are rendered.
+####The most ambitious from an engineering standpoint, this is a physical installation of a 'rain maker'. The installation cycles water through the system generating rainfall which is collected in a receptical, and recycled through the water flow system. As each droplet descends, it moves through a gauntlet of various colored laser beams. Each color iteration of each droplet, represents an indivual galaxy. The installation would run nonstop for the duration of the exhibit, until representations of all galaxies in the universe are rendered.
 ![newsketch10](https://github.com/moriartp/ms2/blob/master/newSketches/10.jpg)
