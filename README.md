@@ -29,7 +29,8 @@
 6. Other realted work, integration of the personal
   1. http://www.thewildernessdowntown.com/
   2. Hyperlapse https://vimeo.com/63653873
-#______________________________________________________________________
+
+<p>______________________________________________________________________</p>
 
 #Project Proposal One: The Interstellar Traveler
 ![sketch01](https://github.com/moriartp/ms2/blob/master/sketches/20170209_150655.jpg)
