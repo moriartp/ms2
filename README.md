@@ -10,28 +10,26 @@
     4. Abbey in an Oak Forest, by Caspar David Friedrich, 1810
     5. Looking Down Yosemite Valley, by Albert Bierstadt, 1865
     6. Aurora Borealis, by Frederic Edwin Church, 1865.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+3. Numerosity  perception
+  1. Survey of emperical studies related to numerosity perceptions
+  2. Discuss collection of my own data on subject/study, collection process, and testing
+4. Lev Manovich’s Anti-Sublime in Data Art
+  1. New media and the anti-sublime as numerosity rendering  
+  2. Complementary/opposing Arguments
+    1. Lisa Javbratt — The Prospect of the Sublime in Data Visualizations
+    2. Warren Sack — Aesthetics of Information Visualization
+5. Survey of comtemporary anti-sublime/sublime visualizations
+  1. Every Icon - http://numeral.com/appletsoftware/eicon.html
+    1. Use of time, audience tunes into a program already in progress, as with television
+  2. 1:1 https://i0.wp.com/oi58.tinypic.com/33tl2kp.jpg
+    1. Brute force, each point rendered in 1:1 lense
+  3. Infome Imager Lite http://128.111.69.4/~jevbratt/infome_imager/lite/exhibitions.html
+    1. Manifestations: http://128.111.69.4/~jevbratt/infome_imager/lite/crawler_files/interface/index.html?3
+    2. The search engine uses algorithms to sort the data according to one theory or another, in order to present the user with pages containing a few selected links each. The user is not allowed to see the actual data, but a subset of it, selected and sorted by a computer. The result of an Infome Imager "search" is an image with all collected data, potentially a vast amount of information, presented in a way in which the human brain, not the computer, is put to work on what it does so well - creating intuitive understandings of large quantities of information. 
+6. Other realted work, integration of the personal
+  1. http://www.thewildernessdowntown.com/
+  2. Hyperlapse https://vimeo.com/63653873
+______________________________________________________________________
 
 #Project Proposal One: The Interstellar Traveler
 ![sketch01](https://github.com/moriartp/ms2/blob/master/sketches/20170209_150655.jpg)
