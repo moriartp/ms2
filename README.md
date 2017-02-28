@@ -4,7 +4,8 @@
 2. Kantian Sublime
   1. Exploration of mathamatical and aesthetic sublimes in Kantial philosophy
   2. Romanticism and the Sublime in 19th Century Art
-    1. The Polar Sea, Caspar David Friedich
+    1.![sketch01](http://www.mystudios.com/art/ncar/friedrich/friedrich-polar-sea.jpg) 
+    The Polar Sea, Caspar David Friedich
     2. Fishermen at Sea, by JMW Turner, 1794.
     3. Wanderer Above the Sea of Fog, by Caspar David Friedrich, 1818
     4. Abbey in an Oak Forest, by Caspar David Friedrich, 1810
@@ -30,7 +31,7 @@
   1. http://www.thewildernessdowntown.com/
   2. Hyperlapse https://vimeo.com/63653873
 
-<p>______________________________________________________________________</p>
+<p>____________________________________________________________________________________________________________________</p>
 
 #Project Proposal One: The Interstellar Traveler
 ![sketch01](https://github.com/moriartp/ms2/blob/master/sketches/20170209_150655.jpg)
