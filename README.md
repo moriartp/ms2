@@ -4,12 +4,12 @@
 2. Kantian Sublime
   1. Exploration of mathamatical and aesthetic sublimes in Kantial philosophy
   2. Romanticism and the Sublime in 19th Century Art
-    1. The Polar Sea, Caspar David Friedich![sketch01](http://www.mystudios.com/art/ncar/friedrich/friedrich-polar-sea.jpg) 
-    2. Fishermen at Sea, by JMW Turner, 1794.
-    3. Wanderer Above the Sea of Fog, by Caspar David Friedrich, 1818
-    4. Abbey in an Oak Forest, by Caspar David Friedrich, 1810
-    5. Looking Down Yosemite Valley, by Albert Bierstadt, 1865
-    6. Aurora Borealis, by Frederic Edwin Church, 1865.
+    1. The Polar Sea, Caspar David Friedich![01](http://www.mystudios.com/art/ncar/friedrich/friedrich-polar-sea.jpg) 
+    2. Fishermen at Sea, by JMW Turner, 1794. ![02](http://www.tate.org.uk/art/images/work/T/T01/T01585_9.jpg)
+    3. Wanderer Above the Sea of Fog, by Caspar David Friedrich, 1818![03](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/375px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
+    4. Abbey in an Oak Forest, by Caspar David Friedrich, 1810![04](http://www.canvaz.com/friedrich/friedrich-2.jpg)
+    5. Looking Down Yosemite Valley, by Albert Bierstadt, 1865![05](https://humanitiesusa.files.wordpress.com/2011/12/looking-down-yosemite-valley-by-albert-bierstadt-picture.jpg)
+    6. Aurora Borealis, by Frederic Edwin Church, 1865.![06](http://www.fredericedwinchurch.org/Aurora-Borealis.jpg)
 3. Numerosity  perception
   1. Survey of emperical studies related to numerosity perceptions
   2. Discuss collection of my own data on subject/study, collection process, and testing
