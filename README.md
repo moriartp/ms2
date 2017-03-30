@@ -2,7 +2,7 @@
 [A Day in the Life of Americans](http://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/)
 
 
-##The Aesthetic Anti-Sublime in Data Visualization
+## The Aesthetic Anti-Sublime in Data Visualization
 1. Abstract, Introduction
   1. While Kantian distinctions between the mathamatical and aesthetic sublimes hold true in the sense that humans possess a limited capacity to comprehend numeric values and proportions significantly in excess of anthropic scale, efforts to make large datasets “comprehensible” too often obscrure the true natiure of the subject matter’s enormity in the interest of digestibility. I put forth in this paper the supposition that new media visualizations provide opportunity to confront audiences with brute force renderings of the Kantian mathematical sublime (here: that which vastly exceeds anthropic measure) serves the interest of expanding audiences’ comprehension of subject matters of vast numerosity.
 2. Kantian Sublime
