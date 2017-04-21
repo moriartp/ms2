@@ -1,4 +1,6 @@
-# Launch Landing
+#High Definition Mobile Mockups
+
+## Launch Landing
 positioning, initiation of application
 - name of app at the top of the page
 - positioning statement indicating starting point of the model
@@ -7,7 +9,8 @@ positioning, initiation of application
 ##### Launch Landing
 ![sketch01](https://github.com/moriartp/ms2/blob/master/mocks/01-launchlanding.jpg)
 
-# AR Layer
+#
+## AR Layer
 primary view, presenting live, dynamic content
 - text on top bar updates over the course of travel through the model, interaction is like that of pop-up video
 - image is live randering of the camera view, renders planetary objects based on barcode triggers
@@ -16,8 +19,8 @@ primary view, presenting live, dynamic content
 ##### AR Layer
 ![sketch02](https://github.com/moriartp/ms2/blob/master/mocks/02-ARlayer.jpg)
 
-
-# Planet Card
+#
+## Planet Card
 Context and information abut each of the planets in the model
 - still image at top displays the marker and render in context
 - planet name reaffirmed in title format
@@ -27,7 +30,8 @@ Context and information abut each of the planets in the model
 ##### Planet Card
 ![sketch01](https://github.com/moriartp/ms2/blob/master/mocks/03-planetCard.jpg)
 
-# Solar Map
+#
+## Solar Map
 overview of the physical space within which the model is rendered
 - page title/positioning at top of screen
 - map illustrating the entire length of the walking tour
