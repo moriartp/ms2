@@ -4,6 +4,7 @@ positioning, initiation of application
 - positioning statement indicating starting point of the model
 - go button to trigger load of AR layer
 - image of the sun emphasizing heliocentric nature of the model
+##### Launch Landing
 ![sketch01](https://github.com/moriartp/ms2/blob/master/mocks/01-launchlanding.jpg)
 
 # AR Layer
@@ -29,4 +30,4 @@ overview of the physical space within which the model is rendered
 - page title/positioning at top of screen
 - map illustrating the entire length of the walking tour
 - left-pointing arrow at left of screen returns to the AR layer
-![sketch02](https://github.com/moriartp/ms2/blob/master/mocks/04-solarMap.jpg)
+<p>![sketch02](https://github.com/moriartp/ms2/blob/master/mocks/04-solarMap.jpg)</p>
