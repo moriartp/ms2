@@ -29,4 +29,4 @@ overview of the physical space within which the model is rendered
 - page title/positioning at top of screen
 - map illustrating the entire length of the walking tour
 - left-pointing arrow at left of screen returns to the AR layer
-![sketch02](https://github.com/moriartp/ms2/blob/master/sketches/04-solarMap.jpg)
+![sketch02](https://github.com/moriartp/ms2/blob/master/mocks/04-solarMap.jpg)
