@@ -14,7 +14,7 @@ primary view, presenting live, dynamic content
 - right-acing arrow on left side of screen, opens the solar map
 - horizontal navigation at the bottom presents of series of planetary symbols, each triggering display of a 'planet card'
 ##### AR Layer
-![sketch02](https://github.com/moriartp/ms2/blob/master/mockss/02-ARlayer.jpg)
+![sketch02](https://github.com/moriartp/ms2/blob/master/mocks/02-ARlayer.jpg)
 
 
 # Planet Card
