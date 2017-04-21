@@ -1,4 +1,4 @@
-#High Definition Mobile Mockups
+# High Definition Mobile Mockups
 
 ## Launch Landing
 positioning, initiation of application
