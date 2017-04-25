@@ -9,7 +9,7 @@ Upon launch of the mobile application, th user is presented with a landing scree
 ##### Launch Landing
 ![sketch01](https://github.com/moriartp/ms2/blob/master/mocks/_01-launchlanding.jpg)
 
-###launch landing scrollview content
+### launch landing scrollview content
 The scrollview content position/explains the application/model and its general use.
 - presents users with a start to finish still map of the model's duration
 - highlight use of 'Planet Cards'
