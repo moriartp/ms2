@@ -13,6 +13,7 @@ Upon launch of the mobile application, th user is presented with a landing scree
 The scrollview content position/explains the application/model and its general use.
 - presents users with a start to finish still map of the model's duration
 - highlight use of 'Planet Cards'
+##### Launch Landing Content
 ![sketch01](https://github.com/moriartp/ms2/blob/master/mocks/_01-launchlandingContent.jpg)
 
 #
@@ -45,11 +46,11 @@ Context and information about each of the planets in the model
 ![sketch01](https://github.com/moriartp/ms2/blob/master/mocks/_03-planetCard.jpg)
 
 #### Planet Card Content
-![sketch01](https://github.com/moriartp/ms2/blob/master/mocks/_03-planetCardContent.jpg)
 The planet card content is displayed within the scrollview, presents further context about the planet and its place within the model
 - presents a visual size comparison of the planet against a similarly sized everyday object
 - map still displaying the full orbital range of the planet within the Manhattan context
 - bar comparison of average walking time within the model, versus the light minutes within the solar system
 - street view image specifying the location of the marker
 - display of the barcaode marker for reference
+##### Planet Card Content
 ![sketch01](https://github.com/moriartp/ms2/blob/master/mocks/_03-planetCardContent.jpg)
