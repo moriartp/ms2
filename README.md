@@ -1,6 +1,6 @@
 # wave9
-## wave9 is an augemented reality mobile application that allows audiences to experience an immersive model of teh solar system set against the backdrop of Manhattans Fifth Avenue.
-##### [01](http://www.mystudios.com/art/ncar/friedrich/friedrich-polar-sea.jpg) 
+#### wave9 is an augemented reality mobile application that allows audiences to experience an immersive model of teh solar system set against the backdrop of Manhattans Fifth Avenue.
+##### ![01](http://www.mystudios.com/art/ncar/friedrich/friedrich-polar-sea.jpg) 
 [wave9 presentation site](http://moriartp.github.io/projects/wave_9/)
 Commonly, numerical values expressed in multiple orders of magnitude are difficult to comprehend, particularly so for audiences that are less-mathematically inclined. The deliverable of this project is intended to narrow this gap in comprehension in order to create meaning and make interpretable a true model of the solar system to a general audience. Owing to early visual representations of the the sublime in 19th century romanticism, the project name, in homage to Russian Armenian painter Ivan Aivazovsky, is dubbed, Wave 9.
 
